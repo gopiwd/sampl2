@@ -1,0 +1,130 @@
+@charset "utf-8";
+/* CSS Document */
+.menu{
+	min-height:120px;
+}
+body
+{
+	font-family: 'Open Sans', sans-serif;
+}
+#terms_font{
+	font-weight:bold;
+}
+
+#terms,#customer{
+	
+	color:#ffb72b;
+	 font-size:30px;
+	  font-weight:bold;
+}
+
+#conditions{
+	background-color:#FFF;
+	 color:#505050; 
+	 font-size:12px;
+	 margin-left:0px;
+}
+
+#mail{
+	height:44px;
+	width:458px;
+}
+
+#text_area{
+	height:268px;
+	width:458px;
+}
+
+#size{
+	height:40px;
+	width:140px;
+	color:#FFF;
+	font-size:18px;
+	font-weight:700;
+	background-color:#fcbf46;
+	border:1px solid #fcbf46;
+}
+
+#cs{
+	margin-left:0px;
+	background-color:#FFF;
+	color:#444444;
+}
+#cs_padding{
+	padding-left:30px;
+	
+}
+
+#cs_background{
+	background-color:#444444;
+	color:#ffb72b;
+	font-size:18px;
+	}
+	
+#contact{
+	font-size:22px;
+	color:#ffb72b;
+	font-weight:700;
+}
+#cs_country{
+	font-weight:bold;
+	font-size:18px;
+}
+
+#cs_faq{
+	background-color:#FFF;
+}
+
+#cs_ques{
+	padding-left:25px;
+}
+
+#purchase_padding{
+	margin-left:0px;
+}
+
+#pay_left
+{
+	padding-left:28px;
+}
+
+.month{
+	width:120px;
+}
+
+.year{
+	width:95px;
+}
+
+.purchase_buy{
+	
+	color:#FFF;
+	font-size:16px;
+	background-color:#e2a431;
+	border:1px solid #e2a431;
+	height:40px;
+}
+
+#t_c{
+	color:#e2a431;
+}
+
+#product_icon{
+	height:40px;
+	width:160px;
+	color:#FFF;
+	font-weight:bold;
+	font-size:18px;
+	background-color:#f7bd4a;
+	border:1px solid #f7bd4a;
+}
+
+#products_detox{
+	margin-left:0px;
+	font-size:18px;
+}
+
+#product_clean{
+	font-size:30px;
+	 color:#ffb72b;
+}
